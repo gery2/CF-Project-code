@@ -1,0 +1,19 @@
+1band1d.py:
+
+(base) C:\Python\CS>python 1band1d.py
+0.350008719
+Everything passed
+
+
+1c.py:
+
+(base) C:\Python\CS>python 1c.py
+0.612952475
+Everything passed
+
+
+1e.py:
+
+(base) C:\Python\CS>python 1e.py
+7.606442568
+Everything passed
